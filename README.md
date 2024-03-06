@@ -6,7 +6,6 @@ With over 5 years of hands-on experience, I specialize in crafting engaging digi
 Languages: HTML, CSS, JavaScript (ES6+)
 Frameworks & Libraries: React, Next.js
 Tools & Technologies: Git, REST APIs, GraphQL
-Design: Responsive Design Principles, Basic Graphic Design using tools like Figma and Adobe XD
 
 #### 💡 Projects & Collaborations
 I have worked on a variety of projects, from small business websites to large-scale web applications. My focus is always on delivering user-centric and performance-optimized solutions. Feel free to check out my Project Portfolio for more details.
