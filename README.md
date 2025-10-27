@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Bloop!
 ### 🌟 Frontend Developer & UI/UX Enthusiast
-With over 5 years of hands-on experience, I specialize in crafting engaging digital experiences. My journey in frontend development has been marked by a deep passion for responsive design, clean code, and the latest industry trends.
+With over 6 years of hands-on experience, I specialize in crafting engaging digital experiences. My journey in frontend development has been marked by a deep passion for responsive design, clean code, and the latest industry trends.
 
 #### 🚀 Technical Skills
 Languages: HTML, CSS, JavaScript (ES6+)
